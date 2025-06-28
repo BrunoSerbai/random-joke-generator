@@ -11,7 +11,7 @@ A simple React app that fetches random jokes using the [JokeAPI](https://v2.joke
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/random-joke-generator.git
+   git clone https://github.com/BrunoSerbai/random-joke-generator.git
    ```
 2. Navigate into the project directory:
    ```sh
